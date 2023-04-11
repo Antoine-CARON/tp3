@@ -21,10 +21,14 @@
 
 * Pour importer un "style" Jekyll (ici Architect) :
 
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+title: Merlot theme
+
+description: Merlot is a theme for GitHub Pages.
+
 show_downloads: true
+
 google_analytics:
-theme: jekyll-theme-architect
+
+theme: jekyll-theme-merlot
 
 #### Equipe 14 :  Antoine CARON  -  Luc LECARPENTIER  -  Mathys PORET
