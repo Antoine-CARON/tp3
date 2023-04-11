@@ -19,11 +19,12 @@
 
 ## Compte rendu TP 5:
 
-* Pour importer un "style" Jekyll (ici Cayman) :
+* Pour importer un "style" Jekyll (ici Architect) :
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
 
-# Equipe 14 :
-Antoine CARON - Luc LECARPENTIER - Mathys PORET
+#### Equipe 14 :  Antoine CARON  -  Luc LECARPENTIER  -  Mathys PORET
