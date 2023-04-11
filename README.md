@@ -1,4 +1,4 @@
-**Nom :** Mathys Poret
+**Nom :** Antoine Caron, Luc Lecarpentier, Mathys Poret
 
 **Groupe :** B
 
