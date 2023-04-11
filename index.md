@@ -1,5 +1,3 @@
-[Accès au repertoire du tp3 sur Github](https://github.com/Antoine-CARON/tp3).
-
 ## TP 3 : Travailler en équipe sur un depôt github distant
 
 #### Lors de ce tp3 nous avons abordé : 
@@ -8,6 +6,7 @@
 
 ### Compte rendu TP 3:
 
+[Accès au repertoire du tp3 sur Github](https://github.com/Antoine-CARON/tp3)
 
 ## TP 5 : Comment créer un site Web sur GitHub pages
 
@@ -27,4 +26,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
 
-#### Equipe 14 :  Antoine CARON  -  Luc LECARPENTIER  -  Mathys PORET
+#### Equipe 13 :  Antoine CARON  -  Luc LECARPENTIER  -  Mathys PORET
