@@ -21,14 +21,10 @@
 
 * Pour importer un "style" Jekyll (ici Architect) :
 
-title: Merlot theme
-
-description: Merlot is a theme for GitHub Pages.
-
+title: Modernist theme
+description: Modernist is a theme for GitHub Pages.
 show_downloads: true
-
 google_analytics:
-
-theme: jekyll-theme-merlot
+theme: jekyll-theme-modernist
 
 #### Equipe 14 :  Antoine CARON  -  Luc LECARPENTIER  -  Mathys PORET
