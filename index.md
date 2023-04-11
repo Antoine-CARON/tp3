@@ -29,6 +29,6 @@ plugins:
 
 | Prénom       | Nom               | Groupe |
 |:-------------|:------------------|:-------|
-| Trystan      | Baillobay         | B      |
-| Maxime       | Lemoine           | B      |
-| Mattéo       | Sa                | B      |
+| Luc      |          | B      |
+| Mathys       |            | B      |
+| Antoine       |                 | B      |
