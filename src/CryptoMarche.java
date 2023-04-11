@@ -29,8 +29,8 @@ public class CryptoMarche {
 
 		for (Portefeuille port : portefeuilles)
 		{
-			if (port.getProprietaire().equals(proprietaire))
-				dRet += port.getMontant();
+			if (port.estProprietaire(proprietaire))
+				dRet += port.valeurEnEuros();
 		}
 
         return dRet;
@@ -49,7 +49,7 @@ public class CryptoMarche {
 		for (Portefeuille port : portefeuilles)
 		{
 			if (port.getMonnaie().getNom().equals(monnaie.getNom()))
-				dRet += port.getMontant();
+				dRet += port.valeurEnEuros();
 		}
 
         return dRet;
