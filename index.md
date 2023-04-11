@@ -21,10 +21,10 @@
 
 * Pour importer un "style" Jekyll (ici Architect) :
 
-title: Modernist theme
-description: Modernist is a theme for GitHub Pages.
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-modernist
+theme: jekyll-theme-slate
 
 #### Equipe 14 :  Antoine CARON  -  Luc LECARPENTIER  -  Mathys PORET
