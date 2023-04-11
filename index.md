@@ -1,4 +1,4 @@
-[Accéder à mes TP 3 et 5](https://github.com/Antoine-CARON/tp3).
+[Accès au repertoire du tp3 sur Github](https://github.com/Antoine-CARON/tp3).
 
 ## TP 3 : Travailler en équipe sur un depôt github distant
 
