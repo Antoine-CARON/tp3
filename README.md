@@ -1,4 +1,4 @@
-**Nom :** Antoine Caron
+**Nom :** Antoine Caron, Luc Lecarpentier, Mathys Poret
 
 **Groupe :** B
 
