@@ -34,6 +34,11 @@ On peut observer que le test a été fait uniquement sur la branche dédié et q
 
 ### 3.2) Fusionner la branche de test dans la branche principale
 
+On se remet sur le main et on fusionne les 2 branches avec ```git merge test```. On a alors dans notre répertoire le fichier test et le README modifié.
+On supprime le fichier test.
+
+Avec le collègue on crée une branche chacun dans laquelle on créer un fichierr java pour notre cryptomonnaie. On fusionne ainsi nos branches avec le main avant de les ```git push```
+
 ## Résumé
 
 - ```git checkout``` : cette commande sert à gérer les branches d'un projet git soit en les créant soit en se déplaçant entre les branches.
